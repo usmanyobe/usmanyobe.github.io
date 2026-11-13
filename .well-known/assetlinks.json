@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.usmanyobe.twa",
+      "sha256_cert_fingerprints": [
+        "61:CA:41:15:2C:01:C6:AE:E8:ED:7A:DE:68:29:F2:AE:3A:8A:DF:36:AB:86:15:A9:68:C9:F4:81:B8:3B:65:28"
+      ]
+    }
+  }
+]
