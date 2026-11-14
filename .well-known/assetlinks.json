@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.usmanyobe.twa",
+      "package_name": "com.usmanyobe.talkshow",
       "sha256_cert_fingerprints": [
-        "61:CA:41:15:2C:01:C6:AE:E8:ED:7A:DE:68:29:F2:AE:3A:8A:DF:36:AB:86:15:A9:68:C9:F4:81:B8:3B:65:28"
+        "AB:55:99:26:E7:88:44:8A:6B:AA:27:CF:19:AC:BF:F4:C6:59:F3:B3:29:90:64:65:61:01:01:1A:F9:0C:D4:45"
       ]
     }
   }
